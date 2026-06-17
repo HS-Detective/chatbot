@@ -31,7 +31,6 @@
 ### AI & Machine Learning
 - **LLM & RAG Framework**: LangChain (<0.3), LangChain-OpenAI
 - **Vector Database**: ChromaDB (임베딩 벡터 저장 및 검색)
-- **Data Processing**: Pandas, NumPy
 - **Document Parsing & Scraping**: PyPDF, BeautifulSoup4 (bs4), Pillow
 
 ### Utilities
