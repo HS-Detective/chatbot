@@ -11,7 +11,7 @@
 ## 주요 기능
 - **도메인별 다중 RAG 챗봇 모델 서빙 (`features` 기반 동적 로딩)**
   - `FAQ`: 무역 통관, 관세 등 자주 묻는 질문에 대한 AI 응답
-  - `Glossary (tradeWords)`: 방대한 무역 전문 용어 사전 기반 검색 및 해설
+  - `tradeWords`: 방대한 무역 전문 용어 사전 기반 검색 및 해설
   - `HS Code`: 사용자 질의 기반 HS 코드 예측 및 품목 분류 안내
   - `Navigation`: Trit 서비스 내 최적의 메뉴 및 가이드 추천
 - **메인 웹 서버(Spring Boot) 맞춤형 REST API 제공**
